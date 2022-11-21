@@ -13,4 +13,4 @@ I am a Research Fellow (pre-doctoral researcher) working full time at Microsoft 
 In my free time I like to read, write and learn the violin.
 
 <h2>Recent News</h2>
-	<li><span>[August 2019]</span> Our paper titled “A Hybrid Approach for Tiger Re-Identification,” was accepted at the CVWC Workshop, ICCV 2019! [[Link]](https://ieeexplore.ieee.org/abstract/document/9022551)</li>
+	<li><span>[August 2019]</span> Our paper titled “A Hybrid Approach for Tiger Re-Identification,” was accepted at the CVWC Workshop, ICCV 2019! [Link](https://ieeexplore.ieee.org/abstract/document/9022551)</li>
