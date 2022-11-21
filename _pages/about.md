@@ -14,9 +14,9 @@ In my free time I like to read, write and learn the violin.
 
 <h2>Recent News</h2>
 
-- [November 2022] Our paper titled <b>“Simulating Network Paths with Recurrent Buffering Units,”</b> was accepted at the AAAI 2023!<a href="https://arxiv.org/abs/2202.13870"> [Arxiv]</a>
-- [August 2021] I started working as a Research Fellow (pre-doctoral researcher) at <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-india/">Microsoft Research India</a>, with <a href="https://www.microsoft.com/en-us/research/people/nagarajn/">Dr. Nagarajan Natarajan.</a>
-- [July 2020] Our paper titled <b>“WaveTransform: Crafting Adversarial Examples via Input Decomposition,”</b> was accepted at the AROW Workshop, ECCV 2020!<a href="https://link.springer.com/chapter/10.1007/978-3-030-66415-2_10"> [Link]</a>
-- [May 2020]</span> Started my internship at <a href="https://www.tcs.com/research-and-innovation">TCS Research & Innovation</a> on recommendation systems with <a href="https://www.linkedin.com/in/pankaj-malhotra-76b60a24/">Mr. Pankaj Malhotra.</a>
-- [February 2020]</span> I got accepted as a <a href="https://www.mitacs.ca/en/programs/globalink/globalink-research-internship">Globalink Research Intern</a> at <a href="https://www.etsmtl.ca/">ETS Montreal</a>, where I will work with <a href="https://www.etsmtl.ca/en/research/professors/egranger">Prof. Eric Granger</a> on video surveillance
-- [August 2019]</span> Our paper titled <b>“A Hybrid Approach for Tiger Re-Identification,”</b> was accepted at the CVWC Workshop, ICCV 2019!<a href="https://ieeexplore.ieee.org/abstract/document/9022551"> [Link]</a>
+- **[November 2022]**: Our paper titled <b>“Simulating Network Paths with Recurrent Buffering Units,”</b> was accepted at the AAAI 2023!<a href="https://arxiv.org/abs/2202.13870"> [Arxiv]</a>
+- **[August 2021]**: I started working as a Research Fellow (pre-doctoral researcher) at <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-india/">Microsoft Research India</a>, with <a href="https://www.microsoft.com/en-us/research/people/nagarajn/">Dr. Nagarajan Natarajan.</a>
+- **[July 2020]**: Our paper titled <b>“WaveTransform: Crafting Adversarial Examples via Input Decomposition,”</b> was accepted at the AROW Workshop, ECCV 2020!<a href="https://link.springer.com/chapter/10.1007/978-3-030-66415-2_10"> [Link]</a>
+- **[May 2020]**: Started my internship at <a href="https://www.tcs.com/research-and-innovation">TCS Research & Innovation</a> on recommendation systems with <a href="https://www.linkedin.com/in/pankaj-malhotra-76b60a24/">Mr. Pankaj Malhotra.</a>
+- **[February 2020]**: I got accepted as a <a href="https://www.mitacs.ca/en/programs/globalink/globalink-research-internship">Globalink Research Intern</a> at <a href="https://www.etsmtl.ca/">ETS Montreal</a>, where I will work with <a href="https://www.etsmtl.ca/en/research/professors/egranger">Prof. Eric Granger</a> on video surveillance
+- **[August 2019]**: Our paper titled <b>“A Hybrid Approach for Tiger Re-Identification,”</b> was accepted at the CVWC Workshop, ICCV 2019!<a href="https://ieeexplore.ieee.org/abstract/document/9022551"> [Link]</a>
