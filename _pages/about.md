@@ -14,7 +14,7 @@ In my free time I like to read, write and learn the violin.
 
 <h2>Recent News</h2>
 
-- **[February 2022]**: My co-author <a href="https://sriramb-98.github.io/">Sriram</a> presented our paper <b>“Simulating Network Paths with Recurrent Buffering Units,”</b> during a poster session at AAAI 2023. <a href="https://drive.google.com/file/d/1ucUvGfMfvTUrbcgjm7Cj4qx_5-d_z4b5/view?usp=sharing"> [Poster]</a>
+- **[February 2023]**: My co-author <a href="https://sriramb-98.github.io/">Sriram</a> presented our paper <b>“Simulating Network Paths with Recurrent Buffering Units,”</b> during a poster session at AAAI 2023. <a href="https://drive.google.com/file/d/1ucUvGfMfvTUrbcgjm7Cj4qx_5-d_z4b5/view?usp=sharing"> [Poster]</a>
 - **[November 2022]**: Our paper titled <b>“Simulating Network Paths with Recurrent Buffering Units,”</b> was accepted at AAAI 2023!<a href="https://arxiv.org/abs/2202.13870"> [Arxiv]</a>
 - **[August 2021]**: I started working as a Research Fellow (pre-doctoral researcher) at <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-india/">Microsoft Research India</a>, with <a href="https://www.microsoft.com/en-us/research/people/nagarajn/">Dr. Nagarajan Natarajan.</a>
 - **[July 2020]**: Our paper titled <b>“WaveTransform: Crafting Adversarial Examples via Input Decomposition,”</b> was accepted at the AROW Workshop, ECCV 2020!<a href="https://arxiv.org/abs/2010.15773"> [Link]</a>
