@@ -16,7 +16,7 @@ A few years ago, I graduated from [IIIT Delhi](https://www.iiitd.ac.in/) with a 
 
 <h2>Other things about me</h2>
 
-Outside of academics, I love reading and learning new things, which has led to many-a-fall down rabbit holes on the internet. The topic doesn't really matter, as long as it is something interesting. I have read enough sci-fi and fantasy that I feel compelled to craft a story out of my own ideas, starting with short stories in a setting of my design. I really like instrumental music, which mostly comes from having played far too many video games with awesome OSTs. Speaking of which, I also enjoy playing boardgames, particularly RPGs like D&D. I also learnt the tabla a while back and picked up the violin more recently. I am always up for a jamming session. I have also picked up knitting with far less success (grandmothers make it look so easy &#128516), but I persevere. 
+Outside of academics, I love reading and learning new things, which has led to many-a-fall down rabbit holes across the internet. The topic doesn't really matter, as long as it is something interesting. I have read enough sci-fi and fantasy that I feel compelled to craft a setting out of my own ideas and start writing short stories. I _really_ like instrumental music, which mostly comes from having played and seen far too many games and movies with awesome soundtracks. To that end, I learnt the tabla (indian percussion) a while back and picked up the violin more recently. I also enjoy playing boardgames, particularly RPGs like D&D. I also started knitting with not much success (grandmothers make it look so easy), but I persevere &#128516;. 
 
 <h2>Recent News</h2>
 
