@@ -23,7 +23,7 @@ Outside of academics, I love reading and learning new things, which has led to m
  <ul>
  <li>[July 2023]: I will be starting my PhD at UW-Madison in September! I plan to work on robustness and security in machine learning.</li>
 <li>[February 2023]: My co-author <a href="https://sriramb-98.github.io/">Sriram</a> presented our paper <i>“Simulating Network Paths with Recurrent Buffering Units,”</i> during a poster session at AAAI 2023. <a href="https://drive.google.com/file/d/1ucUvGfMfvTUrbcgjm7Cj4qx_5-d_z4b5/view?usp=sharing"> [Poster]</a></li>
-<li>[November 2022]: Our paper titled <i>“Simulating Network Paths with Recurrent Buffering Units,”</i> was accepted at AAAI 2023!<a href="https://arxiv.org/abs/2202.13870"> [Arxiv]</a></li>
+<li>[November 2022]: Our paper titled <i>“Simulating Network Paths with Recurrent Buffering Units,”</i> was accepted at AAAI 2023!<a href="https://ojs.aaai.org/index.php/AAAI/article/view/25820"> [Article]</a></li>
 <li>[August 2021]: I started working as a Research Fellow (pre-doctoral researcher) at <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-india/">Microsoft Research India</a>, with <a href="https://www.microsoft.com/en-us/research/people/nagarajn/">Dr. Nagarajan Natarajan.</a></li>
 <li>[July 2020]: Our paper titled <i>“WaveTransform: Crafting Adversarial Examples via Input Decomposition,”</i> was accepted at the AROW Workshop, ECCV 2020!<a href="https://arxiv.org/abs/2010.15773"> [Link]</a></li>
 <li>[May 2020]: Started my internship at <a href="https://www.tcs.com/research-and-innovation">TCS Research & Innovation</a> on recommendation systems with <a href="https://www.linkedin.com/in/pankaj-malhotra-76b60a24/">Mr. Pankaj Malhotra.</a></li>
