@@ -16,7 +16,6 @@ I was previously a Research Fellow (pre-doctoral researcher) at Microsoft Resear
 Outside of academics, I love reading and learning new things, which has led to many-a-fall down rabbit holes on the internet. The topic doesn't really matter, as long as it is something interesting. I have read enough sci-fi and fantasy that I feel compelled to craft a story out of my own ideas, starting with short stories in a setting of my design. I really like instrumental music, which mostly comes from having played far too many video games with awesome OSTs. Speaking of which, I also enjoy playing boardgames, particularly RPGs like D&D. I learnt the tabla (an indian percussion instrument) a while back and picked up the violin more recently. I have also picked up knitting, but with far less success (grandmothers make it look so easy &#128516). 
 
 <h2>Recent News</h2>
-
 - [July 2023]: I will be starting my PhD at UW-Madison in September! I plan to work on robustness and security in machine learning. 
 - [February 2023]: My co-author <a href="https://sriramb-98.github.io/">Sriram</a> presented our paper <i>“Simulating Network Paths with Recurrent Buffering Units,”</i> during a poster session at AAAI 2023. <a href="https://drive.google.com/file/d/1ucUvGfMfvTUrbcgjm7Cj4qx_5-d_z4b5/view?usp=sharing"> [Poster]</a>
 - [November 2022]: Our paper titled <i>“Simulating Network Paths with Recurrent Buffering Units,”</i> was accepted at AAAI 2023!<a href="https://arxiv.org/abs/2202.13870"> [Arxiv]</a>
