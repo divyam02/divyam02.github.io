@@ -14,9 +14,9 @@ I was previously a Research Fellow (pre-doctoral researcher) at Microsoft Resear
 
 A few years ago, I graduated from [IIIT Delhi](https://www.iiitd.ac.in/) with a B.Tech. in computer science and applied mathematics, where I worked on adversarial robustness with [Prof. Mayank Vatsa](http://home.iitj.ac.in/~mvatsa/) and [Prof. Richa Singh](http://home.iitj.ac.in/~richa/).
 
-<h2>Other things about me</h2>
+<h2>Other things about me</h2><h4>(in no particular order...)</h4>
 
-Outside of academics, I love reading and learning new things. This has led to many-a-fall down rabbit holes across the internet and I have come to appreciate _all sorts_ of niche topics. I have read enough sci-fi and fantasy that I feel compelled to craft my own setting and start writing short stories. I _really_ like instrumental music, which mostly comes from having played and seen far too many games and movies with awesome soundtracks. To that end, I learnt the tabla (indian percussion) a while back and picked up the violin more recently. I also enjoy playing boardgames, particularly RPGs like D&D. I also started knitting, without much success (grandmothers make it look so easy), but I persevere &#128516;. 
+Outside of academics, I love reading and learning new things. This has led to many-a-fall down rabbit holes across the internet and I have come to appreciate _all sorts_ of niche topics. I have read enough sci-fi and fantasy that I feel compelled to craft my own setting and start writing short stories. I _really_ like instrumental music, which mostly comes from having played and seen far too many games and movies with awesome soundtracks. To that end, I learnt the tabla (indian percussion) a while back and picked up the violin more recently. I enjoy playing boardgames, _especially_ RPGs like D&D. I know how to bake breads from scratch. I also started knitting, without much success (grandmothers make it look so easy), but I persevere &#128516;. 
 
 <h2>Recent News</h2>
 
