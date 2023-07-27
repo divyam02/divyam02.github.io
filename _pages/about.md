@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first year PhD student at UW-Madison, where I work with [Prof. Somesh Jha](https://pages.cs.wisc.edu/~jha/) on topics pertaining to robustness and security in machine learning. ML models are vulnerable at many stages of a typical pipeline and can be exploited to produce abberant behavior. This can range from anywhere between installing backdoors during training to duplicating model weights during inference. As these models (especially LLMs) become widespread, I hope to mitigate some of the vulnerabilities that come with them. 
+I am a first year PhD student at UW-Madison, where I work with [Prof. Somesh Jha](https://pages.cs.wisc.edu/~jha/) on topics pertaining to robustness and security in machine learning. ML models are vulnerable at many stages of the pipeline and can be exploited to produce abberant behavior. This can range from anywhere between installing backdoors during training to duplicating model weights during inference. As these models (especially LLMs) become widespread, I hope to mitigate some of the vulnerabilities that come with them. 
 
 I was previously a Research Fellow (pre-doctoral researcher) at Microsoft Research with [Dr. Nagarajan Natarajan](https://www.microsoft.com/en-us/research/people/nagarajn/) and [Dr. Jayashree Mohan](https://www.microsoft.com/en-us/research/people/jamohan/), where I applied machine learning to problems in the area of systems, such as network path simulation and efficient inference in LLMs. 
 
@@ -16,7 +16,7 @@ A few years ago, I graduated from [IIIT Delhi](https://www.iiitd.ac.in/) with a 
 
 <h2>Other things about me</h2>
 
-Outside of academics, I love reading and learning new things, which has led to many-a-fall down rabbit holes across the internet. As a result, I have come to appreciate _all sorts_ of niche topics. I have read enough sci-fi and fantasy that I feel compelled to craft a setting out of my own ideas and start writing short stories. I _really_ like instrumental music, which mostly comes from having played and seen far too many games and movies with awesome soundtracks. To that end, I learnt the tabla (indian percussion) a while back and picked up the violin more recently. I also enjoy playing boardgames, particularly RPGs like D&D. I also started knitting, without much success (grandmothers make it look so easy), but I persevere &#128516;. 
+Outside of academics, I love reading and learning new things. This has led to many-a-fall down rabbit holes across the internet and I have come to appreciate _all sorts_ of niche topics. I have read enough sci-fi and fantasy that I feel compelled to craft a setting of my own and start writing short stories. I _really_ like instrumental music, which mostly comes from having played and seen far too many games and movies with awesome soundtracks. To that end, I learnt the tabla (indian percussion) a while back and picked up the violin more recently. I also enjoy playing boardgames, particularly RPGs like D&D. I also started knitting, without much success (grandmothers make it look so easy), but I persevere &#128516;. 
 
 <h2>Recent News</h2>
 
