@@ -9,4 +9,4 @@ My [mom has been baking](https://www.renusbreadbakers.com/) for around seven yea
 
 The recipe has been refined to the point even complete novices (like me) can bake. The bread is delicious!
 
-<img src="images/bread/bread_2023_07_28.jpg" width="100%" title="After 8000 years of iteration..." alt="Hmmm">
+<img src="../images/bread/bread_2023_07_28.jpg" width="100%" title="After 8000 years of iteration..." alt="Hmmm">
