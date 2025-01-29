@@ -23,6 +23,8 @@ I occasionally record this side of life in the [blog](https://divyam02.github.io
 <h2>Recent News</h2>
 
 <ul>
+<li>[January 2025]: Our paper titled <i>"Functional Homotopy: Smoothing Discrete Optimization via Continuous Parameters for LLM Jailbreak Attacks"</i> was accepted at ICLR 2025! <a href="https://arxiv.org/abs/2410.04234"> [Paper]</a>, <a href="https://openreview.net/forum?id=uhaLuZcCjH"> [OpenReview]</a></li>
+<li>[December 2023]: Our paper titled <i>"Preempt: Sanitizing Sensitive Prompts for LLMs"</i> was accepted at PPAI 2024! <a href="https://www.cs.toronto.edu/~dglukhov/Preempt.pdf"> [Paper]</a></li>
 <li>[August 2023]: I was awarded the prestigious <a href="https://jntataendowment.org/">J.N. Tata Endowment scholarship</a> for higher education.</li>  
 <li>[July 2023]: I will be starting my PhD at <a href="https://www.cs.wisc.edu/">UW-Madison</a> in September! I plan to work on robustness and security in machine learning.</li>
 <li>[February 2023]: My co-author <a href="https://sriramb-98.github.io/">Sriram</a> presented our paper <i>“Simulating Network Paths with Recurrent Buffering Units,”</i> during a poster session at AAAI 2023. <a href="https://drive.google.com/file/d/1ucUvGfMfvTUrbcgjm7Cj4qx_5-d_z4b5/view?usp=sharing"> [Poster]</a></li>
