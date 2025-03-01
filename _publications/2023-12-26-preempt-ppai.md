@@ -2,11 +2,11 @@
 title: "Prϵϵmpt: Sanitizing Sensitive Prompts for LLMs"
 collection: publications
 permalink: /publication/2023-12-26-preempt-ppai
-excerpt: 'We propose to utilize both deep learning and traditional SIFT descriptor-based matching for tiger re-identification.'
-date: 2024-12-26
-venue: 'AAAI 2024 Workshop (Privacy-Preserving Artificial Intelligence'
+excerpt: 'We introduce a cryptographically inspired notion of a prompt sanitizer which transforms an input prompt to protect its sensitive tokens.'
+date: 2023-12-26
+venue: 'AAAI 2024 Workshop (Privacy-Preserving Artificial Intelligence)'
 ---
-Visual data analytics is increasingly becoming an important part of wildlife monitoring and conservation strategies. In this work, we discuss our solution to the image-based Amur tiger re-identification (Re-ID) challenge hosted by the CVWC Workshop at ICCV 2019. Various factors like poor quality images, lighting and pose variations, and limited images per identity make tiger Re-ID a difficult task for deep learning models. Consequently, we propose to utilize both deep learning and traditional SIFT descriptor-based matching for tiger re-identification.
+In this paper, we address the problem of formally protecting the sensitive information contained in a prompt while maintaining response quality. To this end, first, we introduce a cryptographically inspired notion of a prompt sanitizer which transforms an input prompt to protect its sensitive tokens. Our evaluation demonstrates that Prϵϵmpt is a practical method to achieve meaningful privacy guarantees, while maintaining high utility compared to unsanitized prompts, and outperforming prior methods.
 
 [[Paper](https://www.cs.toronto.edu/~dglukhov/Preempt.pdf)]
 
