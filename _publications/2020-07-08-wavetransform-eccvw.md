@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2020-07-08-wavetransform-eccvw
 excerpt: 'We introduce a novel class of adversarial attacks, namely ‘WaveTransform’, that creates adversarial noise corresponding to low-frequency and high-frequency subbands, separately (or in combination).'
 date: 2020-07-08
-venue: 'ECCVW'
+venue: 'ECCV 2020 Workshop (Adversarial Robustness in the Real World)'
 ---
 We introduce a novel class of adversarial attacks, namely ‘WaveTransform’, that creates adversarial noise corresponding to low-frequency and high-frequency subbands, separately (or in combination). The frequency subbands are analyzed using wavelet decomposition; the subbands are corrupted and then used to construct an adversarial example.
 
