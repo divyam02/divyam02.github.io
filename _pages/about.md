@@ -16,7 +16,7 @@ A few years ago, I graduated from [IIIT Delhi](https://www.iiitd.ac.in/) with a 
 
 <h2>Other (non-academic) things about me</h2>
 
-I love reading and learning new things. This has led to many-a-fall down rabbit holes across the internet, and as a result, I have come to appreciate _all sorts_ of niche topics. I have read enough sci-fi and fantasy that I feel compelled to craft my own setting and start writing short stories. I _really_ like instrumental music, which mostly comes from having played and seen far too many games and movies with awesome soundtracks. To that end, I learnt the tabla (indian percussion) a while back and picked up the violin more recently. I enjoy playing boardgames, especially RPGs like D&D. On an unrelated note, I know how to bake breads from scratch &#128516;. 
+I love reading and learning new things. This has led to many-a-fall down rabbit holes across the internet, and as a result, I have come to appreciate _all sorts_ of niche topics. I have read enough sci-fi and fantasy that I feel compelled to craft my own setting and start writing short stories. I _really_ like instrumental music, which mostly comes from having played and seen far too many games and movies with awesome scores. To that end, I learnt the tabla (indian percussion) a while back and picked up the violin more recently. I enjoy playing boardgames, especially RPGs like D&D. On an unrelated note, I know how to bake breads from scratch &#128516;. 
 
 I occasionally record this side of life in the [blog](https://divyam02.github.io/year-archive/) section.
 
