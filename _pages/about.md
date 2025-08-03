@@ -16,15 +16,14 @@ A few years ago, I graduated from [IIIT Delhi](https://www.iiitd.ac.in/) with a 
 
 <h2>Other (non-academic) things about me</h2>
 
-I love reading and learning new things. This has led to many-a-fall down rabbit holes across the internet, and as a result, I have come to appreciate _all sorts_ of niche topics. I have read enough sci-fi and fantasy that I feel compelled to craft my own setting and start writing short stories. I _really_ like instrumental music, which mostly comes from having played and seen far too many games and movies with awesome scores. To that end, I learnt the tabla (indian percussion) a while back and picked up the violin more recently. I enjoy playing boardgames, especially RPGs like D&D. On an unrelated note, I know how to bake breads from scratch &#128516;. 
-
-I occasionally record this side of life in the [blog](https://divyam02.github.io/year-archive/) section.
+I love reading and learning new things. This has led to many-a-fall down rabbit holes across the internet, and as a result, I have come to appreciate all sorts of niche topics. I have read enough sci-fi and fantasy that I feel compelled to craft my own setting and write short stories. I _really_ like instrumental music, which mostly comes from having played and seen far too many games and movies with awesome scores. To that end, I learnt the tabla (indian percussion) a while back and picked up the violin more recently. I enjoy playing boardgames, especially partial information games like BoTC and Coup. I also occasionally bake breads from scratch &#128516;. 
 
 <h2>Recent News</h2>
 
 <ul>
+<li>[July 2025]: Our paper titled <i>"Prϵϵmpt: Sanitizing Sensitive Prompts for LLMs"</i> was accepted at NDSS 2026! <a href="https://arxiv.org/abs/2504.05147"> [Paper]</a></li>
 <li>[January 2025]: Our paper titled <i>"Functional Homotopy: Smoothing Discrete Optimization via Continuous Parameters for LLM Jailbreak Attacks"</i> was accepted at ICLR 2025! <a href="https://arxiv.org/abs/2410.04234"> [Paper]</a>, <a href="https://openreview.net/forum?id=uhaLuZcCjH"> [OpenReview]</a></li>
-<li>[December 2023]: Our paper titled <i>"Preempt: Sanitizing Sensitive Prompts for LLMs"</i> was accepted at PPAI 2024! <a href="https://www.cs.toronto.edu/~dglukhov/Preempt.pdf"> [Paper]</a></li>
+<li><s>[December 2023]: Our paper titled <i>"Preempt: Sanitizing Sensitive Prompts for LLMs"</i> was accepted at PPAI 2024! <a href="https://www.cs.toronto.edu/~dglukhov/Preempt.pdf"> [Paper]</a></s></li>
 <li>[August 2023]: I was awarded the prestigious <a href="https://jntataendowment.org/">J.N. Tata Endowment scholarship</a> for higher education.</li>  
 <li>[July 2023]: I will be starting my PhD at <a href="https://www.cs.wisc.edu/">UW-Madison</a> in September! I plan to work on robustness and security in machine learning.</li>
 <li>[February 2023]: My co-author <a href="https://sriramb-98.github.io/">Sriram</a> presented our paper <i>“Simulating Network Paths with Recurrent Buffering Units,”</i> during a poster session at AAAI 2023. <a href="https://drive.google.com/file/d/1ucUvGfMfvTUrbcgjm7Cj4qx_5-d_z4b5/view?usp=sharing"> [Poster]</a></li>
