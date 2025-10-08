@@ -21,8 +21,9 @@ I love reading and learning new things. This has led to many-a-fall down rabbit 
 <h2>Recent News</h2>
 
 <ul>
-<li>[July 2025]: Our paper titled <i>"Prϵϵmpt: Sanitizing Sensitive Prompts for LLMs"</i> was accepted at NDSS 2026! <a href="https://arxiv.org/abs/2504.05147"> [Paper]</a></li>
-<li>[January 2025]: Our paper titled <i>"Functional Homotopy: Smoothing Discrete Optimization via Continuous Parameters for LLM Jailbreak Attacks"</i> was accepted at ICLR 2025! <a href="https://arxiv.org/abs/2410.04234"> [Paper]</a>, <a href="https://openreview.net/forum?id=uhaLuZcCjH"> [OpenReview]</a></li>
+<li>[August 2025]: Our paper titled <i>"How Not to  Detect Prompt Injections with an LLM"</i> was accepted at AISec 2025! <a href="https://arxiv.org/abs/2507.05630"> [Paper]</a> <a href="https://github.com/sarthak-choudhary/DataFlip"> [GitHub]</a></li>
+<li>[July 2025]: Our paper titled <i>"Prϵϵmpt: Sanitizing Sensitive Prompts for LLMs"</i> was accepted at NDSS 2026! <a href="https://arxiv.org/abs/2504.05147"> [Paper]</a> <a href="https://github.com/danshumaan/preempt"> [GitHub]</a></li>
+<li>[January 2025]: Our paper titled <i>"Functional Homotopy: Smoothing Discrete Optimization via Continuous Parameters for LLM Jailbreak Attacks"</i> was accepted at ICLR 2025! <a href="https://arxiv.org/abs/2410.04234"> [Paper]</a> <a href="https://openreview.net/forum?id=uhaLuZcCjH"> [OpenReview]</a> <a href="https://github.com/danshumaan/functional_homotopy"> [GitHub]</a></li>
 <li><s>[December 2023]: Our paper titled <i>"Preempt: Sanitizing Sensitive Prompts for LLMs"</i> was accepted at PPAI 2024! <a href="https://www.cs.toronto.edu/~dglukhov/Preempt.pdf"> [Paper]</a></s></li>
 <li>[August 2023]: I was awarded the prestigious <a href="https://jntataendowment.org/">J.N. Tata Endowment scholarship</a> for higher education.</li>  
 <li>[July 2023]: I will be starting my PhD at <a href="https://www.cs.wisc.edu/">UW-Madison</a> in September! I plan to work on robustness and security in machine learning.</li>
