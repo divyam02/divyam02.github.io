@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second year PhD student at [UW-Madison](https://www.cs.wisc.edu/), where I work with [Prof. Somesh Jha](https://pages.cs.wisc.edu/~jha/) on topics pertaining to robustness and security in machine learning. ML models are vulnerable at many stages of the pipeline and can be exploited to produce abberant behavior. This can range from anywhere between installing backdoors during training to duplicating model weights during inference. As these models (especially LLMs) become widespread, I hope to mitigate some of the vulnerabilities that come with them. 
+I am a third year PhD student at [UW-Madison](https://www.cs.wisc.edu/), where I work with [Prof. Somesh Jha](https://pages.cs.wisc.edu/~jha/) on topics pertaining to robustness and security in machine learning. ML models are vulnerable at many stages of the pipeline and can be exploited to produce abberant behavior. This can range from anywhere between installing backdoors during training to duplicating model weights during inference. As these models (especially LLMs) become widespread, I hope to mitigate some of the vulnerabilities that come with them. 
 
 I was previously a Research Fellow (pre-doctoral researcher) at [Microsoft Research](https://www.microsoft.com/en-us/research/lab/microsoft-research-india/) with [Dr. Nagarajan Natarajan](https://www.microsoft.com/en-us/research/people/nagarajn/) and [Dr. Jayashree Mohan](https://www.microsoft.com/en-us/research/people/jamohan/), where I applied machine learning to problems in the area of systems, such as network path simulation and efficient inference in LLMs. 
 
