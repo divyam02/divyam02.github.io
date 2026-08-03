@@ -8,11 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am a third year PhD student at [UW-Madison](https://www.cs.wisc.edu/), where I work with [Prof. Somesh Jha](https://pages.cs.wisc.edu/~jha/) on topics pertaining to robustness and security in machine learning. ML models are vulnerable at many stages of the pipeline and can be exploited to produce abberant behavior. This can range from anywhere between installing backdoors during training to duplicating model weights during inference. As these models (especially LLMs) become widespread, I hope to mitigate some of the vulnerabilities that come with them. 
+> **I am graduating in December 2026, seeking full time roles from January 2027**, working on GenAI, LLMs, and agentic systems — preferably in GenAI safety, agentic security, red teaming for prompt injection and jailbreaks, or privacy-preserving machine learning. Research scientist, applied scientist, research engineer, software engineer and security engineer roles are all a good fit.
 
-I was previously a Research Fellow (pre-doctoral researcher) at [Microsoft Research](https://www.microsoft.com/en-us/research/lab/microsoft-research-india/) with [Dr. Nagarajan Natarajan](https://www.microsoft.com/en-us/research/people/nagarajn/) and [Dr. Jayashree Mohan](https://www.microsoft.com/en-us/research/people/jamohan/), where I applied machine learning to problems in the area of systems, such as network path simulation and efficient inference in LLMs. 
+I am an MS CS student at [UW-Madison](https://www.cs.wisc.edu/). I am broadly interested in trustworthy machine learning, with a focus on the security and privacy of agentic systems. During my program I worked as a research assistant with [Prof. Somesh Jha](https://pages.cs.wisc.edu/~jha/) and published research on staged optimization for jailbreaking (ICLR'25), prompt injections that bypass KAD-based detectors (AISec@CCS'25) and prompt sanitization with formal privacy guarantees and high utility (NDSS'26). This summer, I am interning at Google, with the App & Ecosystem Trust team, where I red team production agentic crawlers. 
 
-A few years ago, I graduated from [IIIT Delhi](https://www.iiitd.ac.in/) with a B.Tech. in computer science and applied mathematics, where I worked on adversarial robustness with [Prof. Mayank Vatsa](http://home.iitj.ac.in/~mvatsa/) and [Prof. Richa Singh](http://home.iitj.ac.in/~richa/).
+---
+
+I was previously a Research Fellow (pre-doctoral researcher) at [Microsoft Research](https://www.microsoft.com/en-us/research/lab/microsoft-research-india/) (2021-2023) with [Dr. Nagarajan Natarajan](https://www.microsoft.com/en-us/research/people/nagarajn/) and [Dr. Jayashree Mohan](https://www.microsoft.com/en-us/research/people/jamohan/), where I applied machine learning to problems in the area of systems, such as network path simulation (AAAI'23) and efficient inference in LLMs. 
+
+I graduated from [IIIT Delhi](https://www.iiitd.ac.in/) in 2021, with a B.Tech. in computer science and applied mathematics, where I worked on adversarial robustness with [Prof. Mayank Vatsa](http://home.iitj.ac.in/~mvatsa/) and [Prof. Richa Singh](http://home.iitj.ac.in/~richa/).
 
 <h2>Other (non-academic) things about me</h2>
 
@@ -22,7 +26,7 @@ I love reading and learning new things. This has led to many-a-fall down rabbit 
 
 <ul>
 <li>[May 2026]: I will be interning at Google this summer, in Mountain View, CA.</li>
-<li>[April 2026]: I passed my qualification exam!</li>
+<li>[April 2026]: I passed my qualification exam! I am now a PhD Candidate.</li>
 <li>[August 2025]: Our paper titled <i>"How Not to  Detect Prompt Injections with an LLM"</i> was accepted at AISec 2025! <a href="https://arxiv.org/abs/2507.05630"> [Paper]</a> <a href="https://github.com/sarthak-choudhary/DataFlip"> [GitHub]</a></li>
 <li>[July 2025]: Our paper titled <i>"Prϵϵmpt: Sanitizing Sensitive Prompts for LLMs"</i> was accepted at NDSS 2026! <a href="https://arxiv.org/abs/2504.05147"> [Paper]</a> <a href="https://github.com/danshumaan/preempt"> [GitHub]</a></li>
 <li>[January 2025]: Our paper titled <i>"Functional Homotopy: Smoothing Discrete Optimization via Continuous Parameters for LLM Jailbreak Attacks"</i> was accepted at ICLR 2025! <a href="https://arxiv.org/abs/2410.04234"> [Paper]</a> <a href="https://openreview.net/forum?id=uhaLuZcCjH"> [OpenReview]</a> <a href="https://github.com/danshumaan/functional_homotopy"> [GitHub]</a></li>
