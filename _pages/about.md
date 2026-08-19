@@ -12,7 +12,7 @@ redirect_from:
 
 I am an MS CS student at [UW-Madison](https://www.cs.wisc.edu/). I am broadly interested in trustworthy machine learning, with a focus on the security and privacy of agentic systems. During my program I worked as a research assistant with [Prof. Somesh Jha](https://pages.cs.wisc.edu/~jha/) and published research on staged optimization for jailbreaking (ICLR'25), prompt injections that bypass KAD-based detectors (AISec@CCS'25) and prompt sanitization with formal privacy guarantees and high utility (NDSS'26). 
 
-This summer, I interned at Google with the App & Ecosystem Trust team (specifically, MTAP), where I red-teamed production agentic crawlers for prompt injection vulnerabilities. 
+This summer, I interned at Google with the App & Ecosystem Trust team (specifically, MTAP) with [Dr. Tongxin Li](https://www.linkedin.com/in/tongxin-li-a7251790) and [Dr. Mihai Christodorescu](https://www.linkedin.com/in/mihaichristodorescu), where I red-teamed production agentic crawlers for prompt injection vulnerabilities. 
 
 ---
 
